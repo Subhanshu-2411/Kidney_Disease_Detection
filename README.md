@@ -1,1 +1,1 @@
-# Kidney_Disease_Detection
+# Kidney Disease Detection
